@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZkM3h1Z3dlcHRzOGZnY2h1Y3Z2eXh2YjB4ZTZzMmZxMnBrNndsaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif" width="400">
 </p>
 
 <h1 align="center">✨ Merhaba, Ben İrem! ✨</h1>
