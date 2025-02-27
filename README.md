@@ -49,17 +49,6 @@
 ---
 
 
-## 💖 Öne Çıkan Projelerim  
-
-<a href="https://github.com/iremaydi/sosyal-yardim-JSF-Bootstrap-OracleSQL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iremaydi&repo=sosyal-yardim-JSF-Bootstrap-OracleSQL&theme=radical" />
-</a>
-<a href="https://github.com/iremaydi/opencv-image-processing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iremaydi&repo=opencv-image-processing&theme=radical" />
-</a>
-
----
-
 ## 🎀 Beni Nerelerde Bulabilirsin?  
 📧 **E-mail:** [ayd.iremm@gmail.com](mailto:ayd.iremm@gmail.com)  
 💼 **LinkedIn:** [LinkedIn Profilim](https://www.linkedin.com/in/irem-aydin-291109200)  
