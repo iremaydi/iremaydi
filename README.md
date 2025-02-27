@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
-</p>
-
 <h1 align="center">👋 Merhaba, Ben İrem! </h1>
 <h3 align="center"> 🚀 Bilgisayar Mühendisi | Yapay Zeka & Yazılım Geliştirici </h3>
 <p align="center">
