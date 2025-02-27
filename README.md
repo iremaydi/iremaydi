@@ -1,19 +1,27 @@
-<h1 align="center">💖 Hey! Ben İrem! 💖</h1>
-<h3 align="center">🚀 Bilgisayar Mühendisi | Yapay Zeka & Yazılım Geliştirici </h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600">
+</p>
+
+<h1 align="center">👋 Merhaba, Ben İrem! </h1>
+<h3 align="center"> 🚀 Bilgisayar Mühendisi | Yapay Zeka & Yazılım Geliştirici </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="150">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
 </p>
 
 ---
 
-## 🐾 Hakkımda  
-🌸 Merhaba! Ben İrem, kod yazmayı, öğrenmeyi ve keşfetmeyi seven bir yazılım geliştiricisiyim!  
-💡 **Makine öğrenmesi**, **görüntü işleme** ve **yapay zeka projeleri** ile ilgileniyorum.  
-💻 **Python, C++, Java ve SQL** kullanarak projeler geliştiriyorum.  
-🎯 Amaç: İnsanların hayatını kolaylaştıran yazılım çözümleri üretmek.  
+## 🔍 Hakkımda  
+
+💡 **Yapay Zeka, Görüntü İşleme ve Veri Analizi** üzerine çalışmalar yapıyorum.  
+💻 **Python, Java, JavaScript ve SQL** kullanarak projeler geliştiriyorum.  
+🎯 **Amacım**, insanlara faydalı yazılım çözümleri üretmek ve AI projeleri geliştirmek.  
 
 ---
+
 
 ## ✨ İlgi Alanlarım  
 🌿 **Yapay Zeka ve Görüntü İşleme** 👀  
