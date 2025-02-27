@@ -41,6 +41,14 @@
 
 ---
 
+## 🏆 Ödüller & Başarılar  
+
+🏅 **Birincilik Ödülü** – Görüşüm Atölyesi Ön Kuluçka Programı (2024)  
+🥈 **İkincilik Ödülü** – Sürdürülebilirlik Girişimcilik Maratonu (2023)  
+
+---
+
+
 ## 💖 Öne Çıkan Projelerim  
 
 <a href="https://github.com/iremaydi/sosyal-yardim-JSF-Bootstrap-OracleSQL">
