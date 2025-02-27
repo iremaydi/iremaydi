@@ -1,14 +1,18 @@
-<h1 align="center">👋 Merhaba, Ben İrem! </h1>
-<h3 align="center"> 🚀 Bilgisayar Mühendisi | Yapay Zeka & Yazılım Geliştirici </h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400">
 </p>
 
+<h1 align="center">✨ Merhaba, Ben İrem! ✨</h1>
+<h3 align="center"> 🚀 Bilgisayar Mühendisi | AI & Görüntü İşleme Araştırmacısı </h3>
+
+---
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/Machine%20Learning-0099FF?style=for-the-badge&logo=tensorflow&logoColor=white">
 </p>
 
 ---
