@@ -25,6 +25,9 @@
 🎯 **My goal** is to create software solutions that benefit people and develop AI projects.  
 
 ---
+![Ziyaretçi Sayısı](https://komarev.com/ghpvc/?username=rabiasm&color=blue)
+
+---
 
 ## ✨ My Interests  
 🌿 **Artificial Intelligence & Computer Vision** 👀  
