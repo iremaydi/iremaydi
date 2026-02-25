@@ -8,8 +8,8 @@
 ---
 
 ## 🔎 About Me
-I am a Computer Engineering graduate focused on Artificial Intelligence, Data Analysis, and Web Development.  
-I build projects where data is processed, analyzed, and transformed into meaningful insights that support decision-making.
+Computer Engineering graduate focused on Artificial Intelligence, Data Analysis and Web Development.  
+I enjoy building systems where data is processed, analyzed and transformed into meaningful insights.
 
 ---
 
@@ -22,29 +22,17 @@ I build projects where data is processed, analyzed, and transformed into meaning
 ---
 
 ## 🛠️ Tech Stack
-**Languages:** Python, R, SQL, Java, JavaScript  
-**Data & BI:** Power BI, Excel  
-**Web & Backend:** FastAPI, REST API, HTML, CSS, Bootstrap, JSF  
-**Databases:** Oracle SQL, MSSQL  
-
----
-
-## 📌 Selected Projects
-• 🎤 AI Medical Transcription System – Whisper + FastAPI + Flutter  
-• 🚗 License Plate Recognition System – YOLOv8 tracking  
-• 📊 Power BI Dashboards – KPI & decision-support analytics  
-• 🌐 Web Applications – Request management & dynamic web interfaces  
-
----
-
-## 🏆 Achievements
-🥇 1st Place – Strategic Drone Project (2024)  
-🥈 2nd Place – Sustainability Entrepreneurship Marathon (2023)
+Python • R • SQL • Java • JavaScript  
+Power BI • Excel  
+FastAPI • REST API • HTML • CSS • Bootstrap • JSF  
+Oracle SQL • MSSQL  
 
 ---
 
 ## 📫 Contact
 📧 ayd.iremm@gmail.com  
-💼 LinkedIn: linkedin.com/in/irem-aydin-291109200  
+💼 [LinkedIn Profile](https://www.linkedin.com/in/irem-ayd%C4%B1n-291109200/)  
 
-⭐ If you like my projects, feel free to follow!
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=iremaydi&color=blue&style=for-the-badge)
